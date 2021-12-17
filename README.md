@@ -1,4 +1,4 @@
-# Traing in WebScrabing and deal with Json
+# Training in WebScrabing and deal with Json
 
 task1 ==> WebScrabing
 
